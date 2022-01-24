@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veroyoung
 - 👩 I was working as a Food R&D scientist in Roquette
 - 🌱 I’m currently learning(and sharping) data manipulation/analysis skills(Excel, Python, Sql). You can find some of my work in my repositories.
-- 💞️ I’m looking for food related jobs at the moment
+- 💞️ I’m looking for food related jobs at the moment: e.g. RDA Scientist/Food Technologist with Data Analysis Skills
 - 📫 You can reach me via email: vero dot young at outlook dot com
 
 <!---
